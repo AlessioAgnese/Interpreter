@@ -5,7 +5,6 @@ Creatori:  Alessio Agnese, Simone Risso.
 
 Classe principale: Main.java.
 
-Avviare da bash: 
- 
+Avviare da bash:  
 java ~/interpreter/Main -i "inputcode.txt" -o "output.txt" 
 
